@@ -1,34 +1,108 @@
-Olá, sou o Victor Gabriel! 👋
-Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências digitais. Tenho 3 anos de experiência no mercado e estou sempre em busca de novos desafios e oportunidades de aprendizado. Durante minha jornada, trabalhei com uma ampla gama de tecnologias e ferramentas para construir sites, aplicativos e plataformas eficientes.
+# 👩🏻‍💻 Victor Gabriel
 
-🚀 Tecnologias que eu uso
-HTML & CSS: Fundamentos do desenvolvimento web, criando estruturas e estilos sólidos.
+**`Desenvolvedor Front-End`**
 
-JavaScript & TypeScript: Scripts dinâmicos e tipos para garantir performance e escalabilidade.
+Me chamo Victor Gabriel, tenho 19 anos e sou natural de Minas Gerais. Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências digitais. Tenho 3 anos de experiência no mercado e estou sempre em busca de novos desafios e oportunidades de aprendizado. Durante minha jornada, trabalhei com uma ampla gama de tecnologias e ferramentas para construir sites, aplicativos e plataformas eficientes..
 
-Next.js & Vue.js: Frameworks modernos para construir aplicações reativas e escaláveis.
+<p align="left">
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/VictorGabrielBoeri?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-WordPress: Desenvolvimento de sites dinâmicos e customizações de plugins e temas.
+---
 
-PHP: Programação back-end para integrações e funcionalidades dinâmicas.
+### 🤖 Linguagens e Tecnologias
 
-🌱 Estou aprendendo atualmente
-GraphQL: Para consultas de dados mais eficientes.
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-Tailwind CSS: Para estilos rápidos e responsivos.
+<br/>
+<br/>
 
-Node.js: Aprofundando no desenvolvimento de back-end com JavaScript.
+### 📊 Estatísticas
 
-💼 Experiência
-3 anos de experiência no mercado como desenvolvedor front-end.
+<div style="display: flex; gap: 15px">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorGabrielBoeri&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  />
 
-Experiência em construção de sites e aplicações web responsivas e acessíveis.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabrielBoeri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Desenvolvimento de soluções customizadas em WordPress e otimização de performance.
-
-📬 Vamos nos conectar!
-LinkedIn: https://www.linkedin.com/in/victor-gabriel-de-oliveira-boeri
-
-E-mail: https://www.behance.net/victorgabrielboeri
-
-Website: https://www.behance.net/victorgabrielboeri
+</p>
