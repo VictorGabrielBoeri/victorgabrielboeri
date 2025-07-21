@@ -4,7 +4,7 @@
 
 Me chamo Victor Gabriel, tenho 20 anos e sou natural de Minas Gerais. Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências digitais. Tenho 5 anos de experiência no mercado e estou sempre em busca de novos desafios e oportunidades de aprendizado. Durante minha jornada, trabalhei com uma ampla gama de tecnologias e ferramentas para construir sites, aplicativos e plataformas eficientes..
 
-My name is Victor Gabriel, I'm 19 years old and from Minas Gerais. I'm a front-end developer passionate about creating amazing interfaces and digital experiences. I have 5 years of experience in the market and am always looking for new challenges and learning opportunities. During my journey, I have worked with a wide range of technologies and tools to build efficient websites, applications and platforms.
+My name is Victor Gabriel, I'm 20 years old and from Minas Gerais. I'm a front-end developer passionate about creating amazing interfaces and digital experiences. I have 5 years of experience in the market and am always looking for new challenges and learning opportunities. During my journey, I have worked with a wide range of technologies and tools to build efficient websites, applications and platforms.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=followers">
