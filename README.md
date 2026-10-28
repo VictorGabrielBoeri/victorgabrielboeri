@@ -2,9 +2,19 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Victor Gabriel, tenho 20 anos e sou natural de Minas Gerais. Sou um desenvolvedor front-end apaixonado por criar interfaces incríveis e experiências digitais. Tenho 5 anos de experiência no mercado e estou sempre em busca de novos desafios e oportunidades de aprendizado. Durante minha jornada, trabalhei com uma ampla gama de tecnologias e ferramentas para construir sites, aplicativos e plataformas eficientes..
+Sou um Desenvolvedor Sênior Fullstack e Front-end com mais de 6 anos de experiência no
+mercado de tecnologia, atuando em projetos de grande porte e regime CLT/PJ. Possuo sólida
+especialização em React (6 anos de experiência) e Angular (5 anos de experiência), além
+de forte domínio em TypeScript, Next.js, Vue.js, Node.js e ecossistemas web modernos.
+No back-end, conto com 5 anos de experiência superior em Java e 4 anos de experiência
+em Spring Boot, projetando APIs REST robustas, arquiteturas escaláveis e microsserviços.
+Sou especialista em boas práticas de engenharia de software, arquitetura limpa, testes
+automatizados e integração contínua.
+Profissional analítico, proativo e orientado a resultados, com facilidade para liderança técnica,
+mentoria de equipes e alinhamento estratégico com as necessidades do negócio
 
-My name is Victor Gabriel, I'm 20 years old and from Minas Gerais. I'm a front-end developer passionate about creating amazing interfaces and digital experiences. I have 5 years of experience in the market and am always looking for new challenges and learning opportunities. During my journey, I have worked with a wide range of technologies and tools to build efficient websites, applications and platforms.
+I am a Senior Fullstack and Front-end Developer with over 6 years of experience in the technology sector, having worked on large-scale projects under both direct employment (CLT) and independent contractor (PJ) arrangements. I possess deep expertise in React (6 years) and Angular (5 years), along with strong proficiency in TypeScript, Next.js, Vue.js, Node.js, and modern web ecosystems. On the back-end, I have 5 years of extensive experience with Java and 4 years with Spring Boot, designing robust REST APIs, scalable architectures, and microservices. I specialize in software engineering best practices, clean architecture, automated testing, and continuous integration.
+I am an analytical, proactive, and results-oriented professional, skilled in technical leadership, team mentoring, and aligning technical solutions with business needs.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=followers">
